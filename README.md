@@ -25,10 +25,9 @@ setuptools>=65.5.1 # Snyk vulnerability fix
 wheel>=0.38.0 # Snyk vulnerability fix
 
 tritonclient[all]~=2.24.0
-
-# Extras ----------------------------------------------------------------------
-# mss  # screenshots
-# albumentations>=1.0.3
-# pycocotools>=2.0.6  # COCO mAP
-# roboflow
-# ultralytics  # HUB https://hub.ultralytics.com
+Extras ----------------------------------------------------------------------
+mss  screenshots
+albumentations>=1.0.3
+pycocotools>=2.0.6  # COCO mAP
+roboflow
+ultralytics  # HUB https://hub.ultralytics.com
