@@ -2,8 +2,8 @@
 Use the yolov5 model to detect faces and classify masked, non-masked and bad-masked.
 
 Run in terminal
->>> cd ...\mask\yolo\yolov5-master\
->>> python .\mask_detection.py
+>>> cd ...\mask\yolo\yolov5-master  \
+>>> python .\mask_detection.py  \
 press 'q' to close
 
 # comet
