@@ -1,0 +1,5 @@
+train: ../../face_mask_split/images/train
+val: ../../face_mask_split/images/val
+test: ../../face_mask_split/images/test
+
+names: ["Mask","No Mask","Bad Mask"]
