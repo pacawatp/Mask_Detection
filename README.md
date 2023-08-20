@@ -6,7 +6,7 @@ Run in terminal
 >>> python .\mask_detection.py  \
 press 'q' to close
 
-# comet
+# Recommend
 Plotting --------------------------------------------------------------------\
 pandas>=1.1.4\
 seaborn>=0.11.0\
